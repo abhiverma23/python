@@ -1,6 +1,6 @@
 # Author : Abhishek Verma
 # E-Mail : abhishekverma3210@gmail.com
-# Date   : 2st Dec, 2016
+# Date   : 2nd Dec, 2016
 # Title  : Variables in python
 # Description : Fundamental variable uses and getting hashcode and type
 # Tested On   : python 3.5.0
